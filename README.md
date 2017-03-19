@@ -1,14 +1,14 @@
 # Shopko
 Automation Test Scripts for Shopko
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
